@@ -7,8 +7,8 @@ There is two script for two different websites otp bypass ! Ullu website otp byp
 
 
 ```bash
-git clone https://github.com/appuachu/ullu_oto_bypass
-cd ullu_oto_bypass
+git clone https://github.com/appuachu/website_otp_bypass
+cd website_otp_bypass
 pip install requests
 python cart24onlineshopping.py
 ```
